@@ -1,0 +1,1 @@
+Analysis of store’s sales data to understand the underlying trends. The sales data covers a 4-year period in which the store served customers from 147 countries across the world. During this period, the store sold goods in three main categories i.e. technology, office supplies and furniture
